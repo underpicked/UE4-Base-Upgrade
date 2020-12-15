@@ -1,2 +1,4 @@
 # UE4-Base-Upgrade
-Enhanced UE4 Base, Easy-to-use, Open-Source Training Software.
+Credits: https://github.com/syros156 for original base, the base may be outdated, so please debug the crash first, then complain.
+
+Documentation yet not available.
